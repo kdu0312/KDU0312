@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 강동욱입니다!
+# 👋 안녕하세요!
 <div align="center">
 
   ####  :wave: Welcome my github profile 
